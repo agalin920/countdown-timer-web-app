@@ -1,0 +1,16 @@
+.countdown-timer-input-container{
+    margin-left: 3vw;
+    width: -webkit-fit-content;
+    width: -mox-fit-content;
+    width: fit-content;
+}
+
+label{
+    display: inline-block;
+    width: 80px;
+}
+
+.set-button{
+    margin: 1vh auto;
+    display: block;
+}
